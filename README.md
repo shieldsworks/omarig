@@ -2,7 +2,9 @@
 
 Open sensor hardware and firmware for [Omahoy](https://github.com/shieldsworks/omahoy).
 
-**Status: planned.** Nothing to install yet.
+**Status: planned.** Nothing to install yet. The first node will be a compass,
+because the rest of Omahoy has no heading: see
+[docs/compass-node.md](docs/compass-node.md) for its parts.
 
 ## What it will do
 
